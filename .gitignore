@@ -1,3 +1,6 @@
 .env/
 **/.cache
 **/__pycache__/
+dist/
+build/
+bpaste.egg-info
