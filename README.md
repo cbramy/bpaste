@@ -27,6 +27,7 @@ The program works provide two commands described below:
   `bpaste.py list`
 
 #### Dependencies
+* Python 3.5.1
 * [httplib2](https://github.com/jcgregorio/httplib2) (0.9.2)
 * [pyperclip](https://github.com/asweigart/pyperclip) (1.5.26)
 
