@@ -1,6 +1,16 @@
+# virtual env
 .env/
+
+# caching folders
 **/.cache
 **/__pycache__/
+
+# builds generate files & folders
 dist/
 build/
 bpaste.egg-info
+
+# generated documentation
+/docs/_build/
+/docs/_static/
+/docs/_templates/
