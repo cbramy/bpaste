@@ -24,7 +24,7 @@ setup(
 
     entry_points = {
         'console_scripts': [
-            'bpaste: = bpaste.__main__:main'
+            'bpaste = bpaste.__main__:main'
         ]
     },
 
